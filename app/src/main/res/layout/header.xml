@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ThemeOverlay.AppCompat.Dark"
+    android:layout_width="match_parent"
+    android:layout_height="172dp"
+    android:background="#0E0E0E"
+    android:padding="25dp">
+
+
+    <TextView
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="78dp"
+        android:text="Android studio"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp" />
+
+</LinearLayout>
